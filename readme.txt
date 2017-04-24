@@ -1,4 +1,4 @@
 This is our thunkable project.
 Names:
 Ona Igbinedion
-Martino Perez
+Martino Perez (cool guy)
