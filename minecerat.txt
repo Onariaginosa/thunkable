@@ -2,4 +2,4 @@ oak wood plank
 wood sword
 crafting table
 enchantment table
-diamond
+diamond chestplate
